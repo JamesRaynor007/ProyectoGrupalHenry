@@ -1,0 +1,27 @@
+version: "3.9"
+
+services:
+  python_app:
+    build: .
+    volumes:
+      - ./data:/data
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/proyecto-resto-score-f02454a3aee3.json
+    depends_on:
+      - mysql_db
+
+  mysql_db:
+    image: mysql:8
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: Analisis_Total
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
