@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-resto-score",
+  "private_key_id": "f02454a3aee367e6ac46739460b0a357e107b022",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkIZ22lBYuI0Fa\n67PIyfPLf7Pa/O1nW4vQTUVE7x+8HOXOFmi1e4yoQeOEKeY4o2YaE8QEqmWSMFJR\n4QWF5tIMYR9/psa5Gz+HB6/4Vn80k3bxY0Df6oxze8Zcqp7RTfGKZMOBS4kc9Ku+\npFtC5mTC25wX4ZTJ4Mky6SeP6vyZN1esB9ZleVuebDS3v+a3vBkk50+ValZ2V9ht\nyRvaATWJIF9OfBxY4mUsw+UvmotyHezEfRZYzOnyR+Vv9WaFK/DwnCOC2ylBaplE\nJZ8kdD2hqs7v0I6vl2uulQLgivrKbEc6EjkNXghjSD57H72UVZadUJ96/jqfkeaj\nBiUC0cD3AgMBAAECggEAEDYFxse/nRT8WoeXPUi9HKdjU0jSBfhjydIn+lQH9WOB\nSyapdutaDDBd0Wr2AzgYWJEFNlTCLXs6Vj38dqpCqthY7RnC3PuU/bhDqCqa6814\n3QSpnrQi5TEfeX2crB2fssSbDsUwKLz9zZmcLfJll11rgGxWbs4V8UJYFv3lrxhA\nuMtfHdJZfkeuFHaVkmHvI1ohk2iHFyEJRtmchxvTcayHf19ATHQawjVaHYNL/23U\n++yw1kPrXHDVRhQsf5EvtgxdZCx0N7kBeb8FHYEKeMu0XhrP5o6Jk9rC2fgYBnPC\naRbBn8kyR5vnMoyKgmmhnfFISGvLWXytzYpTRNzHIQKBgQDVlC88jUJu29A0alnC\ncDTG93ovSmQiWKRDlSyhdUFgxc7dLqEl9v5ocXEld9Wb0gWS2kRO/tr9dVhrdo5a\nIpZayFqSNAbi+aV5YXDlaEEW9veFsF2T5kk3XK/hYIWnEboA5eKN7sCrzZw5qoHM\nn+QZUdLoNAq1Z1MB6pfg5MHkJwKBgQDEuy3pVImwL5lqkIbY5ojh4wYu56I+aY0f\ntPFLqGdMf0ub1cpJK36xsfIePru9kTtBrluNN1lwIc6fZBZ25ogrIO/DWwQxO70C\nWjP/1anCVnRHPQeQix4HTDnlUTyTusLuJAxxFHUtaRfWNVu76+9LFatEcFsbpw+A\nnQ7NdpwusQKBgGrgM18OpQ7Kin6gNXh6I77o+kiN5lvVlaWIEYReI7AkbCb8fYF8\n/sQO+HqyY78MsuNQu9v35mfs/6kO858hLbISDliZFlUgbfC2lQMHT4MJZMWOgtVO\n6JZ+mDikz1zSHwzx/JPfxKR0SFgG/dsCq+cLrgmqeS1bngsYdJYCgxADAoGBALFw\nOfqnmwBkDjWFYXqkg3VpdBw+I6GzRewBIVmh7Hmcnq9RZoAUUNMosj4BSwexxAZ7\nomt+LpbqhxhQB8r6Jnrv3BEROHjHbrR+c0QejFyR6ZKPQxFlyJHAeL+SQ9birgpo\nTSh40S9CCJPV0IVwSYYpZy31QNdyGJNiFQXQIxIhAoGAWfvdgKzhrCLhZm8Cuk4e\nD4muSrJ0EL1TuRhGILs1EwAmN66Sm/gO4kRKaJfubP3nf3W/xiURwMsf73h/quhO\n0+jY0MoKUrCbLTVa4d93s1KK9TJhZ9R21AWDnhsWDSHrZU5ioj+DsA9UXhLuemVj\nLhKf6AkJ6n7wGgqL7IphnQ0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "carga-cruda@proyecto-resto-score.iam.gserviceaccount.com",
+  "client_id": "116201896341004065940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carga-cruda%40proyecto-resto-score.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
