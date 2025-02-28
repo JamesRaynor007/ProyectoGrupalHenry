@@ -48,6 +48,10 @@ docker logs -f creardocker-python_app-1
 
 Si todo se ejecuta correctamente, deberías ver la siguiente salida:&#x20;
 
+
+![Captura de pantalla 2025-02-28 135307](https://github.com/user-attachments/assets/9767965b-d9ea-4d5a-8c42-e8ce8476b5b1)
+
+
 ## 🔗 Conectar a la Base de Datos desde MySQL Workbench
 
 1. Abre **MySQL Workbench**.
