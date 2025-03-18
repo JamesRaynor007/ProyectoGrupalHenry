@@ -44,7 +44,7 @@ El alcance podría ser mayor si se considerarán los datos relativos a las ubica
 
 
 *   **Lograr un crecimiento mensual de reseñas del 5% al 10% en los primeros 6 meses.** <br>
- Crecimiento mensual de reseñas = ((Reseñas mes actual - Reseñas mes anterior) /  Reseñas mes anterior) × 100
+ Crecimiento mensual de reseñas = ((Reseñas mes actual - Reseñas mes anterior) / Reseñas mes anterior) × 100
 
 
 **Repositorio GitHub**: https://github.com/JamesRaynor007/ProyectoGrupalHenry
